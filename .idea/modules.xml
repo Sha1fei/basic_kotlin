@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app_01_basic_types/app_01_basic_types.iml" filepath="$PROJECT_DIR$/app_01_basic_types/app_01_basic_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_02_null_protection/app_02_null_protection.iml" filepath="$PROJECT_DIR$/app_02_null_protection/app_02_null_protection.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic_kotlin.iml" filepath="$PROJECT_DIR$/.idea/basic_kotlin.iml" />
     </modules>
   </component>
