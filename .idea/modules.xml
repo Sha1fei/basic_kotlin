@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/app_03_function/app_03_function.iml" filepath="$PROJECT_DIR$/app_03_function/app_03_function.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_04_enum/app_04_enum.iml" filepath="$PROJECT_DIR$/app_04_enum/app_04_enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_05_conditions/app_05_conditions.iml" filepath="$PROJECT_DIR$/app_05_conditions/app_05_conditions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app_06_cycle/app_06_switch.iml" filepath="$PROJECT_DIR$/app_06_cycle/app_06_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_06_switch/app_06_switch.iml" filepath="$PROJECT_DIR$/app_06_switch/app_06_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_07_cycle/app_07_cycle.iml" filepath="$PROJECT_DIR$/app_07_cycle/app_07_cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic_kotlin.iml" filepath="$PROJECT_DIR$/.idea/basic_kotlin.iml" />
     </modules>
   </component>
